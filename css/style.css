@@ -16,3 +16,7 @@ body {
    background-color: lightgreen;
    font-size: 2em;
 }
+
+.dropdown a {
+   font-size: 15px;
+}
