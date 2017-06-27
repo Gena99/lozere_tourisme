@@ -1,7 +1,3 @@
-.nav-wrapper {
-    background-color:lightgreen;
-}
-
 body {
    display: flex;
    min-height: 100vh;
@@ -14,4 +10,9 @@ body {
 
 .collapsible-header {
    margin: 3em;
+}
+
+.container-fluid {
+   background-color: lightgreen;
+   font-size: 2em;
 }

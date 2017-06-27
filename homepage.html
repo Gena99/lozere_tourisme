@@ -8,28 +8,100 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="static/external/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" href="static/external/materialize/dist/css/materialize.css">
+    <link rel="stylesheet" href="static/external/bootstrap/dist/css/bootstrap.min.css">
 </head>
 
 <body>
     <header>
-        <nav>
-            <div class="nav-wrapper">
-                <a href="#!" class="brand-logo">Logo</a>
-                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-                <ul class="right hide-on-med-and-down">
-                    <li><a href="sass.html">Sass</a></li>
-                    <li><a href="badges.html">Components</a></li>
-                    <li><a href="collapsible.html">Javascript</a></li>
-                    <li><a href="mobile.html">Mobile</a></li>
-                </ul>
-                <ul class="side-nav" id="mobile-demo">
-                    <li><a href="sass.html">Sass</a></li>
-                    <li><a href="badges.html">Components</a></li>
-                    <li><a href="collapsible.html">Javascript</a></li>
-                    <li><a href="mobile.html">Mobile</a></li>
-                </ul>
-            </div>
-        </nav>
+
+        <nav class="navbar navbar-default">
+<div class="container-fluid">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+    <span class="sr-only">Toggle navigation</span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <a class="navbar-brand" href="#">Lozère Tourisme</a>
+</div>
+
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  <ul class="nav navbar-nav">
+
+     <li class="dropdown">
+
+      <ul class="dropdown-menu">
+        <li><a href="#"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Overview</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span> New Task</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">Categories</a></li>
+      </ul>
+    </li>
+    <li class="dropdown">
+
+      <ul class="dropdown-menu">
+        <li><a href="#">Übersicht</a></li>
+        <li><a href="#">New Contact</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">Categories</a></li>
+      </ul>
+    </li>
+  <li class="dropdown">
+
+      <ul class="dropdown-menu">
+        <li><a href="#">Overview</a></li>
+        <li><a href="#">New Notiz</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">Notebooks</a></li>
+      </ul>
+  </li>
+
+  <li class="dropdown">
+      <a href="#" role="button"  aria-expanded="false">Learnings </a>
+  </li>
+  <li class="dropdown">
+      <a href="#" role="button"  aria-expanded="false">Learnings </a>
+  </li>
+  <li class="dropdown">
+      <a href="#" role="button"  aria-expanded="false">Learnings </a>
+  </li>
+  <li class="dropdown">
+      <a href="#" role="button"  aria-expanded="false">Learnings </a>
+  </li>
+  <li class="dropdown">
+
+      <ul class="dropdown-menu">
+        <li><a href="#">Overview</a></li>
+        <li><a href="#">New Entry</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="#">Topics</a></li>
+      </ul>
+  </li>
+  </ul>
+  <ul class="nav navbar-nav navbar-right">
+    <li class="dropdown">
+
+      <ul class="dropdown-menu">
+        <li><a href="http://www.google.ch" target="_blank">My Webmail</a></li>
+        <li role="separator" class="divider"></li>
+        <li><a href="http://www.google.ch" target="_blank">Timelogger</a></li>
+        <li><a href="http://www.cubetech.ch" target="_blank">cubetech.ch</a></li>
+     </ul>
+    </li>
+     <li class="dropdown">
+
+      <ul class="dropdown-menu">
+        <li><a href="http://www.fgruber.ch/" target="_blank"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> User Settings</a></li>
+        <li><a href="/logout"><span class="glyphicon glyphicon-log-out" aria-hidden="true"></span> Logout</a></li>
+     </ul>
+    </li>
+  </ul>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container-fluid -->
+</nav>
     </header>
     <main>
         <ul class="collapsible popout" data-collapsible="accordion">
@@ -92,5 +164,8 @@
 </body>
 <script src="js/script.js" charset="utf-8"></script>
 <script src="static/external/jquery/dist/jquery.js" charset="utf-8"></script>
-<script src="static/external/materialize/dist/js/materialize.min.js" charset="utf-8"></script>
+<script src="static/external/materialize/dist/js/materialize.min.js"
+ charset="utf-8"></script>
+<script src="static/external/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>
+
 </html>
