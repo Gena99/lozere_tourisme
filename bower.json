@@ -1,0 +1,21 @@
+{
+  "name": "lozere_tourisme",
+  "homepage": "https://github.com/rruellepetel/lozere_tourisme",
+  "authors": [
+    "rruellepetel <ruellepetelromain@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/external/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
