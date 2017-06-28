@@ -325,6 +325,18 @@ div .well {
 	min-height: 533px;
 }
 
+.graph {
+	width: 400px;
+
+ 	height: 400px;
+
+	 margin-left: auto;
+
+ 	margin-right: auto;
+	background-color: white;
+	margin-top: 3em;
+}
+
 .black {
 	color: black;
 }

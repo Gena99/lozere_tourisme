@@ -1,0 +1,19 @@
+<?php $bordereaux = array(
+    "ACC" => "ACC",
+    "ACCAM" => "Aires de camping car",
+    "ASC" => "Prestataires d'activitÈs",
+    "DEG" => "Producteurs du terroir (dégustation)",
+    "HCO" => "HÈbergements collectifs",
+    "HLO" => "HÈbergements locatifs",
+    "HOT" => "Hotellerie",
+    "HPA" => "Hotellerie de plein air",
+    "ITI" => "itinÈraires touristiques",
+    "L34" => "SÈjours",
+    "L66"=> "Commerces / services",
+    "LOI" => "Equipements de loisirs",
+    "ORG" => "Organismes de tourisme (ex : offices de tourisme)",
+    "PCU" => "Patrimoine culturel",
+    "PNA" => "Patrimoine naturel",
+    "RES" => "Restauration",
+    "VIL" => "villages de gÓtes");
+?>
