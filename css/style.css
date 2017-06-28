@@ -278,3 +278,53 @@ div .well {
 	margin-top: 5em;
 	margin-bottom: 5em;
 }
+
+/*caroussel style */
+
+
+
+#commentaire{
+
+	margin-top: 40px;
+}
+
+.carousel-inner{
+	text-align: center;
+
+}
+.carousel-inner img {
+	margin-left: auto;
+	margin-right: auto;
+	/*width:100%;*/
+}
+
+
+.flex {
+  display: flex;
+  flex-flow: wrap;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.flex img {
+  margin: 10px;
+  width: 250px;
+  height: 250px;
+}
+
+.flex a {
+  display: block;
+}
+
+.d-block {
+	width: 800px;
+	height: 533px;
+	max-height: 533px;
+	min-height: 533px;
+}
+
+.black {
+	color: black;
+}

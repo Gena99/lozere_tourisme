@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sites de la Semaine</title>
+    <title>Lozère Tourisme</title>
     <link rel="stylesheet" href="static/external/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" href="static/external/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -42,97 +42,11 @@
                 </div>
             </div>
         </nav>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1 class="page-header">Sites Coup de Coeur</h1>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 portfolio-item">
-                        <a href="#">
-                    <img class="img-responsive" src="http://lorempixel.com/output/nature-q-c-700-400-6.jpg" alt="flowers">
-                </a>
-                        <h3>
-                    <a href="#">Randonnée</a>
-                </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                    </div>
-                    <div class="col-md-4 portfolio-item">
-                        <a href="#">
-                    <img class="img-responsive" src="http://lorempixel.com/output/nature-q-c-700-400-2.jpg" alt="landscape">
-                </a>
-                        <h3>
-                    <a href="#">Sortie Aquatique</a>
-                </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                    </div>
-                    <div class="col-md-4 portfolio-item">
-                        <a href="#">
-                    <img class="img-responsive" src="http://lorempixel.com/output/nature-q-c-700-400-5.jpg" alt="">
-                </a>
-                        <h3>
-                    <a href="#">Hôtel</a>
-                </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h1 class="page-header">Sites de la Semaine
-                    <small>Soyez les Prochains !</small>
-                </h1>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-7">
-                        <a href="#">
-                    <img class="img-responsive" src="http://lorempixel.com/output/nature-q-c-1500-1000-4.jpg" alt="">
-                </a>
-                    </div>
-                    <div class="col-md-5">
-                        <h3>Promenade en Famille</h3>
-                        <h4>Mende</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                        <a class="btn btn-primary" href="#">Voir Plus<span class="glyphicon glyphicon-chevron-right"></span></a>
-
-                    </div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-7">
-                        <a href="#">
-                    <img class="img-responsive" src="http://lorempixel.com/output/food-q-c-1500-1000-8.jpg" alt="">
-                </a>
-                    </div>
-                    <div class="col-md-5">
-                        <h3>Restaurant Lorem</h3>
-                        <h4>Langogne</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
-                        <a class="btn btn-primary" href="#">Voir Plus<span class="glyphicon glyphicon-chevron-right"></span></a>
-                    </div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-7">
-                        <a href="#">
-                    <img class="img-responsive" src="http://lorempixel.com/output/nature-q-c-1500-1000-7.jpg" alt="">
-                </a>
-                    </div>
-                    <div class="col-md-5">
-                        <h3>Découverte Botanique</h3>
-                        <h4>Marvejols</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, temporibus, dolores, at, praesentium ut unde repudiandae voluptatum sit ab debitis suscipit fugiat natus velit excepturi amet commodi deleniti alias possimus!</p>
-                        <a class="btn btn-primary" href="#">Voir Plus<span class="glyphicon glyphicon-chevron-right"></span></a>
-                    </div>
-                </div>
-                <hr>
-            </div>
-        </div>
     </header>
+    <main>
+        
+    </main>
+
     <footer>
         <div class="footer" id="footer">
             <div class="container">
