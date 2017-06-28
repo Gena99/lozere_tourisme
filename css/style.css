@@ -7,6 +7,19 @@ body {
 
 main {
 	background-color: #2f8bca;
+	padding-bottom: 3em;
+}
+
+p {
+    color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	padding-top: 1em;
+	font-size: 40px;
 }
 
 .dropdown a {
